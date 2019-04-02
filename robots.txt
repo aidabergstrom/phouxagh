@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ietuvofuoh.modcluster.io/sitemap.xml
